@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "12.hafta",
-    "slug": "12.hafta",
+    "name": "12tolga",
+    "slug": "12tolga",
+    "owner": "mf101",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +23,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cbddb042-7e61-4a22-b47a-de647e44ceab"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cbddb042-7e61-4a22-b47a-de647e44ceab"
     }
   }
 }
